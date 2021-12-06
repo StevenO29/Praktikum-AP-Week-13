@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktikum AP Week 13", "Praktikum AP Week 13.csproj", "{B646D25F-A2DA-4934-9A39-0FA3ACC1417A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B646D25F-A2DA-4934-9A39-0FA3ACC1417A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B646D25F-A2DA-4934-9A39-0FA3ACC1417A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B646D25F-A2DA-4934-9A39-0FA3ACC1417A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B646D25F-A2DA-4934-9A39-0FA3ACC1417A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {980A8248-2C32-4019-AE5C-4898A4C68A29}
+	EndGlobalSection
+EndGlobal
